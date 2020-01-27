@@ -14,21 +14,20 @@ Since having i) is quite difficult and requires ideal conditions, we used ii) as
 We segment an iris and then select its that contour which is not under the influence of eyelids by specifying an angle. We can thus control the angle and thus the data and the accuracy of our algorithm.
 
 
-
-
-## Intallation
+## Installation
 
 Download the package to a local folder (e.g. ~/IrisRecognition/) by running:
-  ```git clone https://github.com/PRML/PRMLT.git```
   
-Run Matlab and navigate to the folder (~/IrisRecognition/), then run the init.m script.
+  ```git clone https://github.com/kunalait/IrisRecognition.git```
+  
+Run Matlab and navigate to the folder (~/IrisRecognition/), then run the finalcode.m script.
 
 
-FeedBack
+### FeedBack
 If you find any bug or have any suggestion, please do file issues. I am graceful for any feedback and will do my best to improve this package.
 
 
 
-Contact
+### Contact
 kakunalaggarwal19@gmail.com
 
